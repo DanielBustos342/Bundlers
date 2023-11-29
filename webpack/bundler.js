@@ -1,0 +1,2 @@
+/*! For license information please see bundler.js.LICENSE.txt */
+(()=>{var o={963:(o,r)=>{o.exports={suma:(o,r)=>o+r,resta:(o,r)=>o-r},console.log(r)},484:o=>{o.exports={num1:7,num2:8}}},r={};function s(e){var n=r[e];if(void 0!==n)return n.exports;var t=r[e]={exports:{}};return o[e](t,t.exports,s),t.exports}(()=>{const{suma:o}=s(963),{num1:r,num2:e}=s(484),n=o(r,e);console.log(n)})()})();
